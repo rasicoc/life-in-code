@@ -1,4 +1,4 @@
-namespace LifeInCode.Animals.Mammals
+namespace LifeInCode.Mammals
 {
     public class Mammal : Animal
     {

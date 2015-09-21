@@ -1,4 +1,4 @@
-namespace LifeInCode.Animals.Mammals 
+namespace LifeInCode.Mammals.Humans 
 {
 	public class Human : Mammal
 	{

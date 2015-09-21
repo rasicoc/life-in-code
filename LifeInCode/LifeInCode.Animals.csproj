@@ -39,9 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animals\Animal.cs" />
-    <Compile Include="Animals\Mammals\Human.cs" />
-    <Compile Include="Animals\Mammals\Mammal.cs" />
+    <Compile Include="Animal.cs" />
+    <Compile Include="Mammals\Humans\Human.cs" />
+    <Compile Include="Mammals\Mammal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
