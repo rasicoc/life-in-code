@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace LifeInCode
+﻿namespace LifeInCode.Animals
 {
     public static class Gender
     {

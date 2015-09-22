@@ -1,4 +1,4 @@
-namespace LifeInCode
+namespace LifeInCode.Animals
 {
     public class Animal
     {

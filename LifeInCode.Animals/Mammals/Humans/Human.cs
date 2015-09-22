@@ -1,6 +1,6 @@
 using System;
 
-namespace LifeInCode.Mammals.Humans 
+namespace LifeInCode.Animals.Mammals.Humans 
 {
 	public class Human : Mammal
 	{
